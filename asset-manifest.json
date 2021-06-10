@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fcc-markdown-editor/static/css/main.d5e1ada1.chunk.css",
+    "main.js": "/fcc-markdown-editor/static/js/main.b7ce055d.chunk.js",
+    "main.js.map": "/fcc-markdown-editor/static/js/main.b7ce055d.chunk.js.map",
+    "runtime-main.js": "/fcc-markdown-editor/static/js/runtime-main.8f6c0aac.js",
+    "runtime-main.js.map": "/fcc-markdown-editor/static/js/runtime-main.8f6c0aac.js.map",
+    "static/js/2.dc7ea8aa.chunk.js": "/fcc-markdown-editor/static/js/2.dc7ea8aa.chunk.js",
+    "static/js/2.dc7ea8aa.chunk.js.map": "/fcc-markdown-editor/static/js/2.dc7ea8aa.chunk.js.map",
+    "static/js/3.c9673cb5.chunk.js": "/fcc-markdown-editor/static/js/3.c9673cb5.chunk.js",
+    "static/js/3.c9673cb5.chunk.js.map": "/fcc-markdown-editor/static/js/3.c9673cb5.chunk.js.map",
+    "index.html": "/fcc-markdown-editor/index.html",
+    "static/css/main.d5e1ada1.chunk.css.map": "/fcc-markdown-editor/static/css/main.d5e1ada1.chunk.css.map",
+    "static/js/2.dc7ea8aa.chunk.js.LICENSE.txt": "/fcc-markdown-editor/static/js/2.dc7ea8aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f6c0aac.js",
+    "static/js/2.dc7ea8aa.chunk.js",
+    "static/css/main.d5e1ada1.chunk.css",
+    "static/js/main.b7ce055d.chunk.js"
+  ]
+}
